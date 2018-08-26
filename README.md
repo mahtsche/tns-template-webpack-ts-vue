@@ -11,7 +11,7 @@
 
 #### Create a new app
 
-    tns create app-name --template tns-template-webpack-ts-vue
+    tns create app-name --template https://github.com/Wikodit/tns-template-webpack-ts-vue
     cd app-name
     npm install
 
